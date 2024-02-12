@@ -1,0 +1,14 @@
+C:\Users\Computer\Desktop\FlowchartTask\Task1\Tasks\Tasks\bin\Debug\net7.0\Tasks.exe
+C:\Users\Computer\Desktop\FlowchartTask\Task1\Tasks\Tasks\bin\Debug\net7.0\Tasks.deps.json
+C:\Users\Computer\Desktop\FlowchartTask\Task1\Tasks\Tasks\bin\Debug\net7.0\Tasks.runtimeconfig.json
+C:\Users\Computer\Desktop\FlowchartTask\Task1\Tasks\Tasks\bin\Debug\net7.0\Tasks.dll
+C:\Users\Computer\Desktop\FlowchartTask\Task1\Tasks\Tasks\bin\Debug\net7.0\Tasks.pdb
+C:\Users\Computer\Desktop\FlowchartTask\Task1\Tasks\Tasks\obj\Debug\net7.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\Desktop\FlowchartTask\Task1\Tasks\Tasks\obj\Debug\net7.0\Tasks.AssemblyInfoInputs.cache
+C:\Users\Computer\Desktop\FlowchartTask\Task1\Tasks\Tasks\obj\Debug\net7.0\Tasks.AssemblyInfo.cs
+C:\Users\Computer\Desktop\FlowchartTask\Task1\Tasks\Tasks\obj\Debug\net7.0\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\FlowchartTask\Task1\Tasks\Tasks\obj\Debug\net7.0\Tasks.dll
+C:\Users\Computer\Desktop\FlowchartTask\Task1\Tasks\Tasks\obj\Debug\net7.0\refint\Tasks.dll
+C:\Users\Computer\Desktop\FlowchartTask\Task1\Tasks\Tasks\obj\Debug\net7.0\Tasks.pdb
+C:\Users\Computer\Desktop\FlowchartTask\Task1\Tasks\Tasks\obj\Debug\net7.0\Tasks.genruntimeconfig.cache
+C:\Users\Computer\Desktop\FlowchartTask\Task1\Tasks\Tasks\obj\Debug\net7.0\ref\Tasks.dll
